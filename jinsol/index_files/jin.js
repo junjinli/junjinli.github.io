@@ -4,7 +4,7 @@ window.onload=function(){
     count1=0;
     function event1(){
      if(count1 == 0){
-       img1.src = "1_1.gif";
+       img1.src = "index_files/1_1.gif";
        count1 = 1;
      }else{
        img1.src = "index_files/1.gif";
